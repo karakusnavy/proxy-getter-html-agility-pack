@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\GetProxyWithSamed.exe.config
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\GetProxyWithSamed.exe
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\GetProxyWithSamed.pdb
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\obj\Debug\GetProxyWithSamed.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\obj\Debug\GetProxyWithSamed.exe
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\obj\Debug\GetProxyWithSamed.pdb
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\HtmlAgilityPack.dll
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\HtmlAgilityPack.pdb
+c:\users\samet\documents\visual studio 2017\Projects\GetProxyWithSamed\GetProxyWithSamed\bin\Debug\HtmlAgilityPack.xml
